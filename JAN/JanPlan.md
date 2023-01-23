@@ -3,9 +3,11 @@
 1. 알고리즘 복습
 - 다 오래 전에 공부하고, 제대로 공부하지 않은 것들이 있을 수 있으니
   꼼꼼하게 리뷰하자.
-2. 동아리 알고리즘 스터디 문제 풀이
+2. [동아리 알고리즘 스터디 문제 풀이](https://github.com/H-Jae/KHU-NET-AlgorithmStudy/tree/main/2%EC%A3%BC%EC%B0%A8)
 
 ## 1월 4주차
+
+[link](https://github.com/H-Jae/BOJ/tree/main/4th%20week%20of%20Jan)
 
 1. 알고리즘 복습
 * DP (이번 주 스터디 주제)
