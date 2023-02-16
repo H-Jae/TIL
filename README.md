@@ -3,6 +3,9 @@
 
 한 달치를 잡고 n주차로 나눠 공부하기로 한다.
 
+TIL은 공부할 계획을 기록하는 곳이다.
+한 것들은 [Growth-Record](https://github.com/H-Jae/Growth-Record)에 자세히 기재되어있다.
+
 ### 양식
 * 이번 달 목표
 
